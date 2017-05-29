@@ -1,18 +1,17 @@
-/* En-tête du fichier */
+/* En-tÃƒÂªte du fichier */
 ///================== */
-/* Fichier:			tron.cpp
-// Auteur:			Olivier Lemay Dostie & Francis Forest
-// Date création:	28/05/2017
-// Description:		Projet en SFML basé sur le jeu de TRON.*/
+/* Fichier:		tron.cpp
+// Auteur:		Olivier Lemay Dostie & Francis Forest
+// Date crÃ©ation:	28/05/2017
+// Description:		Projet en SFML basÃƒÂ© sur le jeu de TRON.*/
 
-/* Directives au pré-processeur */
+/* Directives au prÃƒÂ©-processeur */
 ///============================ */
 #include <iomanip>				
 #include <locale>				
 #include <string>				
 #include <vector>				
-#include <cstdlib>		
-
+#include <cstdlib>				
 using namespace std;
 #include <SFML/Graphics.hpp>	
 #include <SFML/Audio.hpp>		
@@ -38,7 +37,7 @@ int main()
 {
 	srand(NULL);
 
-	RenderWindow window(VideoMode(1280, 600), "Vroooom!!!");					//Fenêtre
+	RenderWindow window(VideoMode(1280, 600), "Vroooom!!!");					//FenÃƒÂªtre
 	window.setFramerateLimit(60);												//Limite le nombre d'images par secondes
 
 	CircleShape head;

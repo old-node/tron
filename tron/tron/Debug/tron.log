@@ -1,4 +1,4 @@
 ﻿  tron.cpp
-c:\users\francis\source\repos\tron2\tron\tron\tron.cpp(137): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
-  tron.vcxproj -> C:\Users\Francis\Source\Repos\tron2\tron\Debug\tron.exe
-  tron.vcxproj -> C:\Users\Francis\Source\Repos\tron2\tron\Debug\tron.pdb (Full PDB)
+c:\users\o l d\desktop\1_etudes\repertory\projects\les corsés\tron\tron\tron\tron.cpp(137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  tron.vcxproj -> C:\Users\O L D\Desktop\1_Etudes\Repertory\Projects\Les corsés\tron\tron\Debug\tron.exe
+  tron.vcxproj -> C:\Users\O L D\Desktop\1_Etudes\Repertory\Projects\Les corsés\tron\tron\Debug\tron.pdb (Full PDB)
